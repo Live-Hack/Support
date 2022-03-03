@@ -22,7 +22,9 @@
 - ... 
 
 # **Features**
-You have a BIG idea for Live Hack ? open issue [here](https://github.com/Live-Hack/Support/issues) with tag "Features"
+You have a BIG idea for Live Hack ? open issue [here](https://github.com/Live-Hack/Support/issues) with tag "Features"<br>
+All public support update can be seen [here](https://github.com/orgs/Live-Hack/projects/3)
+
 
 # **Contribution**
 🇫🇷 **fr -** Vous avez des compétence dans n'importe quel domaine meme autre que l'informatique et vous voulez participer au projet ? contacte nous par email afin que nous puissions rentrer en contact !<br>
