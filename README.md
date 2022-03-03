@@ -8,19 +8,18 @@
 # **Bugs**
 - Find a bug ? please open a issues: [here](https://github.com/Live-Hack/Support/issues) tag "bugs"
 - Find a *security breach** ? send us an email `contact@live-hack.org` with "security problem" in title
-<br>
-<br>
-> **Security breach:** <br>
-> - server side access
-> - database dump
-> - private chall no auth access
-> - compromised code  
-> - If you think it's important and not in the list, contact us too
->
-> **Not supported:**
-> - all client side attack
-> - osint
-> - ... 
+
+### Security breach:
+- server side access
+- database dump
+- private chall no auth access
+- compromised code  
+- If you think it's important and not in the list, contact us too
+
+### Not supported:
+- all client side attack
+- osint
+- ... 
 
 # **Features**
 You have a BIG idea for Live Hack ? open issue [here](https://github.com/Live-Hack/Support/issues) with tag "Features"
